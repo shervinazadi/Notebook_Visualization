@@ -2,16 +2,12 @@
 
 This is collective directory for data visualization setups in different programming languages and different softwares all gathered, designed and implemented by Shervin Azadi
 
----
-
 ## Contents (Based on Method)
 
 - Interactive
 - Locative
 - 3-Dimensional
 - XR (VR, AR, MR)
-
----
 
 ## Contents (Based on Platform)
 
