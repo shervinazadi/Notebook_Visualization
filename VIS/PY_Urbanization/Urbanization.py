@@ -34,4 +34,9 @@ fig.update_layout(title='Urbanization per Countries',
                   xaxis=dict(range=[1950, 2050]),
                   )
 
-fig.show()
+# write plot to html
+html_path = "OUT/Urbanization.html"
+fig.write_html(html_path)
+
+# show theplot
+# fig.show()
