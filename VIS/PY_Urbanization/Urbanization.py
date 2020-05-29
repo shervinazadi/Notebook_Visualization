@@ -13,7 +13,7 @@ grouped_df = df.groupby(['Entity'])
 
 # plot each group to a line
 lines = [go.Scatter(
-    name=g[0],
+    name=g[0][:25],
     line_shape='spline',
     line=dict(width=0.5),
     x=g[1]['Year'],
