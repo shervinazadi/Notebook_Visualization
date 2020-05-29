@@ -1,6 +1,5 @@
 import pandas as pd
 import plotly.graph_objects as go
-import numpy as np
 
 # loading the data
 data_path = "DATA/urban-vs-rural-majority.csv"
