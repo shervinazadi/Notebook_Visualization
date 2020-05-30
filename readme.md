@@ -1,6 +1,6 @@
 # Data Visualization Portfolio
 
-This is collective directory for data visualization setups in different programming languages and different softwares all gathered, designed and implemented by Shervin Azadi
+This is an educational collection of data visualization setups in different programming languages and different softwares all gathered, designed and implemented by Shervin Azadi.
 
 ## Contents (Based on Method)
 
