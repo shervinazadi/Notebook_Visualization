@@ -22,3 +22,13 @@ This is an educational collection of data and process visualization setups gathe
   - PyVista
 - Houdini
 - Unity
+
+## Examples
+
+### [Interactive Visualization of Urbanization of World](https://github.com/shervinazadi/Portfolio_Data_Visualization/blob/master/VIS/PY_Urbanization)
+
+![](https://github.com/shervinazadi/Portfolio_Data_Visualization/blob/master/VIS/PY_Urbanization/Urbanization.png)
+
+### [Interactive Visualization of Mesh Rasterization Algorithm](https://github.com/shervinazadi/Notebook_Visualization/tree/master/VIS/PY_Rasterization)
+
+![](https://github.com/shervinazadi/Notebook_Visualization/blob/master/VIS/PY_Rasterization/Rasterization.png)
