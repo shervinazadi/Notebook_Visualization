@@ -4,6 +4,7 @@ This is an educational collection of data and process visualization setups gathe
 
 ## Contents (Based on Method)
 
+- Processes & Algorithms
 - Interactive
 - Locative
 - 3-Dimensional
