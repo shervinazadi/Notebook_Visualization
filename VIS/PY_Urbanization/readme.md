@@ -4,4 +4,4 @@ Data Source: [Our World in Data](https://ourworldindata.org/grapher/urban-vs-rur
 
 Libraries: [Poltly](https://plotly.com/python/), [Pandas](https://pandas.pydata.org/)
 
-![](https://github.com/shervinazadi/Portfolio_Data_Visualization/blob/master/VIS/PY_Urbanization/Urbanization.png)
+![](https://github.com/shervinazadi/Notebook_Visualization/blob/master/VIS/PY_Urbanization/Urbanization.png)

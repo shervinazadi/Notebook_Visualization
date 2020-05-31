@@ -4,4 +4,4 @@ Algorithm & Data Source: [GSS-Lab Setup](https://github.com/shervinazadi/GSS_PyH
 
 Libraries: [Poltly](https://plotly.com/python/), [NumPy](https://numpy.org/)
 
-![](https://github.com/shervinazadi/Portfolio_Data_Visualization/blob/master/VIS/PY_VectorField/VectorField.png)
+![](https://github.com/shervinazadi/Notebook_Visualization/blob/master/VIS/PY_VectorField/VectorField.png)
