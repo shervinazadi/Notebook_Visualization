@@ -39,4 +39,4 @@ This is an educational collection of data and process visualization setups gathe
 
 ### [Visualization of Mesh Rasterization Algorithm](https://github.com/shervinazadi/Notebook_Visualization/tree/master/VIS/PY_Rasterization)
 
-![](https://github.com/shervinazadi/Notebook_Visualization/blob/master/VIS/PY_Rasterization/Rasterization.png)
+![](https://github.com/shervinazadi/Notebook_Visualization/blob/master/VIS/PY_Rasterization/Rasterization.gif)

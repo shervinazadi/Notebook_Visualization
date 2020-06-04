@@ -66,7 +66,7 @@ outline = grid.outline()
 
 # initiating the plotter
 p = pv.Plotter()
-p.set_background("black")
+p.set_background([0.065, 0.065, 0.065])
 
 # adding the base mesh: light blue
 p.add_mesh(geo_mesh, show_edges=True, color='#abd8ff',
